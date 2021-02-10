@@ -1,5 +1,3 @@
-# Jordan Field
-
 [Website](https://jordanfield.uk) – [CV](https://jordanfield.uk/resources/Web_Safe_CV.pdf) 
 
 ### [Starling Bank](https://starlingbank.com) 
