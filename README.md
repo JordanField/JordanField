@@ -1,7 +1,7 @@
 [Website](https://jordanfield.uk) – [CV](https://jordanfield.uk/resources/Web_Safe_CV.pdf) 
 
 ### [Zaptec](https://zaptec.com)
-- iOS Software Engineer • Since July 2023
+- iOS Software Engineer • 2023 – 2025
 
 ### [Starling Bank](https://starlingbank.com) 
 - Software Engineer • July 2021 – July 2023
